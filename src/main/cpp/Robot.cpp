@@ -112,7 +112,6 @@ void Robot::TestPeriodic() {
 
 
 
-  //test
   LeftFrontController.Set(powLF);
   LeftRearController.Set(powLB);
   RightFrontController.Set(powRF);
